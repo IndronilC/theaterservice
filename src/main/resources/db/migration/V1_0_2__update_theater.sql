@@ -1,0 +1,1 @@
+Alter table theater add  UNIQUE KEY UK_theatername (theater_name);
